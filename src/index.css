@@ -1,0 +1,13 @@
+.a{
+    color:rgb(83, 109, 105);
+    /* border-bottom: 2px solid gray; */
+
+}
+.a:hover{
+    border-bottom: 2px solid gray;
+
+}
+.one{
+
+    color:blue;
+}
