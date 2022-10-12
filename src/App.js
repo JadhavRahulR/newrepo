@@ -16,7 +16,7 @@ if(mode ==='light')
     }
     else
     {
-        setMode('light');
+        setMode('light'); 
         document.body.style.backgroundColor = "white";
     }
 }
